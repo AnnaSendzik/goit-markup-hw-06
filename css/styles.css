@@ -812,7 +812,7 @@ margin-bottom: 8px;
     background: var(--ocean-color);
     border: 1.25px solid var(--ocean-color);
     border-radius: 2px;
-    background-image: url(../images/checked.svg) ;
+    background-image: url(../images/checked.svg);
     background-repeat: no-repeat;
     background-position: center;
 }
